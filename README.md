@@ -7,7 +7,7 @@ Code for an irrigation-aware ConvLSTM that forecasts vegetation drought
 lead times, and for a controlled test of whether correcting the irrigation signal
 in satellite soil moisture improves those forecasts.
 
-**Write-up:** [blog post](https://chrystali2002.github.io/olusegun.christiana.github.io/)
+**Write-up:** [blog post](https://chrystali2002.github.io/personal-site/blog/posts/irrigation-drought-forecasting/Index.html)
 
 ## Result in one paragraph
 
