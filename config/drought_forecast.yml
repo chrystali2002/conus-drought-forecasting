@@ -1,0 +1,44 @@
+name: drought_forecast
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - ca-certificates
+  - openssl
+  - xarray
+  - netcdf4
+  - h5py
+  - h5netcdf
+  - rasterio
+  - rioxarray
+  - geopandas
+  - shapely
+  - pyproj
+  - cartopy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - pandas
+  - numpy
+  - earthaccess
+  - pystac-client
+  - planetary-computer
+  - earthengine-api
+  - geemap
+  - eofs
+  - cmocean
+  - regionmask
+  - tqdm
+  - rich
+  - loguru
+  - joblib
+  - zarr
+  - dask
+  - certifi
+prefix: /mnt/ffs24/home/olusegu3/miniconda3/envs/drought_forecast
